@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Form Builder</string>
+    <string name="Form">Form</string>
+    <string name="f_name">First Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="submit">Submit</string>
+    <string name="user_Name">Username</string>
+    <string name="fetch_btn">Fetch</string>
+    <string name="Welcome">Welcome </string>
+    <string name="rec">Your Record</string>
+
+</resources>
